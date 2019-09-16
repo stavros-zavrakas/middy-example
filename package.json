@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lambda-warmer": "1.2.1",
-    "middy": "0.29.0"
+    "middy": "^0.28.2"
   }
 }
