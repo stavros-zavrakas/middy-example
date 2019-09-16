@@ -11,8 +11,8 @@ module.exports = () => {
         return 'warming_up';
       }
     },
-    onError: (handler, next) => {
-      console.log('on warmup error');
-    }
+    // onError: (handler, next) => {
+    //  console.log('on warmup error');
+    // }
   });
 };
